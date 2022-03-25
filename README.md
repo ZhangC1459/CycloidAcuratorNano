@@ -4,9 +4,9 @@
 >
 > 
 
-电机型号：2204无刷电机
+Motor model: 2204 brushless motor
 
-轴承型号：6705x2、MR106x2、MR74x14
+Bearing model: 6705x2, MR106x2, MR74x14
 
 ![](https://pengzhihui-markdown.oss-cn-shanghai.aliyuncs.com/img/20211127220034.jpg)
 
